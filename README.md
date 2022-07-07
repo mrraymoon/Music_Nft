@@ -1,11 +1,12 @@
 # Music_Nft
 A smart contract for music NFTs
 
-Music NFT is an NFT smart contract that let's users -
+Music NFT is an NFT smart contract that lets users:
 
     - Mints new music NFTs with price tag
     - Sell off the NFT to other users
     - Buy NFTs from other users
+    - Unlist NFT from the market
     - Rent out the NFT to other users for a specific duration
         - The amount paid for each rent is dependent on the duration
         - Renters pay 1/100 of the NFT price for each day in rent
